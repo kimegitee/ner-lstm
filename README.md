@@ -17,6 +17,7 @@ To output json:
 flow --imgdir path/to/images/ --model path/to/config/file.cfg --gpu 1.0 --json
 
 Results after 2 epochs, 55000 training examples per epoch:
+
 ![](images/00003.png)
 ![](images/00002.png)
 
